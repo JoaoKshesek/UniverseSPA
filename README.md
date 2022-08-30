@@ -1,1 +1,1 @@
-A Single Page Application developed during Stage 05 of Explorer - Rocketseat
+A Single Page Application developed during Stage 06 of Explorer - Rocketseat
